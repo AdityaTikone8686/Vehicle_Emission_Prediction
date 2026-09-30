@@ -231,6 +231,7 @@ Possible future improvements include:
 * Deploying the model as an API
 * Evaluating the model on additional datasets
 * Monitoring model performance on new data
+* Testing & improving model performance on non-linear separated data
 
 ## 👨‍💻 Author
 
